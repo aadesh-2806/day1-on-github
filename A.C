@@ -40,7 +40,7 @@ int main()
 				i=0;
 				l=0;
 				x=0;
-				while(i<n,l<n,x<n)														//add of matrix
+				while(i<n,l<n,x<n)
 				{
 					j=0;
 					s=0;
